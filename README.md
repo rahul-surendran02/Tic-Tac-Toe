@@ -12,6 +12,11 @@ The game includes the following features:
 - **Winning Logic**: Automatically checks for a win or draw.
 - **Responsive Design**: Built with Bootstrap for a mobile-friendly layout.
 
+##Technologies Used
+- **HTML5**
+- **CSS**
+- **Bootstrap**
+
 ## How to Run
 1. Clone the repository:
    ```bash
