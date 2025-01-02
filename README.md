@@ -11,3 +11,9 @@ The game includes the following features:
 - **Interactive Gameplay**: Two players take turns to place their marks.
 - **Winning Logic**: Automatically checks for a win or draw.
 - **Responsive Design**: Built with Bootstrap for a mobile-friendly layout.
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rahul-surendran02/Tic-Tac-Toe.git
+   cd tic-tac-toe
